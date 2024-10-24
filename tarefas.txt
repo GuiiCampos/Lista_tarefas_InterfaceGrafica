@@ -1,5 +1,5 @@
 
-#armazena dados de tarefas
+#Banco de dados para armazenar tarefas e seus status.
 
 1:comer:concluido
 2:dormir:concluido
