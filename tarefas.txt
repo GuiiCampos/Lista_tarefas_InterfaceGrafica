@@ -1,0 +1,6 @@
+
+#armazena dados de tarefas
+
+1:comer:concluido
+2:dormir:concluido
+3:Jogar:pendente
